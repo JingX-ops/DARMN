@@ -11,6 +11,6 @@ torchvision 0.19.0+cu121
 torchaudio 2.4.0+cu121  
 torchmetrics 1.8.2  
 pytorch-lightning 2.0.0
-# **Reproduce our work**
+# **Use our model for inference**
 
 
