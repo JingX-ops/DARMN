@@ -1,6 +1,5 @@
 # DARMN
 DARMN: Domain-Aware Residual Feature Modulation Network for Multidomain Protein Dynamic Inter-Residue Contact Prediction
-<img width="1504" height="589" alt="FIG1" src="https://github.com/user-attachments/assets/1496cac5-dffa-4393-aaf7-fd5a6f4402de" />
 # **Requirements**
 Python 3.10.14  
 torch 2.4.0+cu121  
